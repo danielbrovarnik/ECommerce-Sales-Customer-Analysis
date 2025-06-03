@@ -166,7 +166,8 @@ The visual representation of this data, "Customer Lifetime Revenue and ARPC by C
 
 ## 📈 Visualization
 
-The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: ![graphed](3_retention_analysis.png)
+**The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: 
+![graphed](3_retention_analysis.png)
 ![graphed](3_retention_analysis_xtra.png)
 --
 # 💡 Key Retention Insights (Based on 6-Month Inactivity Churn Definition)
