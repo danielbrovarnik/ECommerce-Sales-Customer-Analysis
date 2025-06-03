@@ -49,7 +49,7 @@ The data produced by the `1_customer_segmentation.sql` query (which includes cus
 -   **Low-Value (2% revenue):** Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency.
 
 ### 2. Customer Revenue by Cohort
-🖥️ **Query:** [2_cohort_analysis.sql](2_cohort_analysis.png) The following SQL query analyzes revenue from customers based on their cohort year (the year of their first purchase). It specifically looks at the revenue generated from transactions that occurred on the customer's `first_purchase_date`. This helps understand the initial spending behavior of different cohorts.
+🖥️ **Query:** [2_cohort_analysis.sql](Scripts/2_cohort_analysis.sql) The following SQL query analyzes revenue from customers based on their cohort year (the year of their first purchase). It specifically looks at the revenue generated from transactions that occurred on the customer's `first_purchase_date`. This helps understand the initial spending behavior of different cohorts.
 
 ```sql
 -- File: 2_cohort_analysis.sql
@@ -88,7 +88,7 @@ This report analyzes customer cohort data based on their initial purchase year, 
 
 ## 📈 Visualization
 
-A visual representation of this data can be found in the accompanying graph:![graphed](../2_cohort_analysis.png)
+A visual representation of this data can be found in the accompanying graph:![graphed](2_cohort_analysis.png)
 
 *(Note: Ensure the image path is correct relative to your README file's location when you use this.)*
 
