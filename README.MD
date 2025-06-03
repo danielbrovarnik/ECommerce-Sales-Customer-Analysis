@@ -231,9 +231,9 @@ This analysis examines revenue performance across key international markets from
 ## 📈 Visualizations
 
 *   Line Chart: Revenue Growth by Country (2015-2023)
-![graphed](../4_cagr_country_revenue.png)
+![graphed](4_cagr_country_revenue.png)
 *   Stacked Bar Chart: Total Revenue by Year & Country Contribution (2015-2023)
-![graphed](../total_rev_stacked_bar_country.png)
+![graphed](total_rev_stacked_bar_country.png)
 *   Pie Charts:
     *   Average Annual Revenue Contribution by Country (2015-2023) -hyperlink
     *   Revenue Contribution by Country - 2015 - hyperlink
