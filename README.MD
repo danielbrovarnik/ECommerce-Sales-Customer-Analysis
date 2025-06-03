@@ -90,7 +90,7 @@ This report analyzes customer cohort data based on their initial purchase year, 
 
 A visual representation of this data can be found in the accompanying graph:![graphed](2_cohort_analysis.png)
 
-*(Note: Ensure the image path is correct relative to your README file's location when you use this.)*
+
 
 ## 📊 Key Findings (Based on Initial Purchase Data)
 
@@ -125,8 +125,8 @@ This report analyzes customer cohort data based on their entire lifetime, focusi
 
 ## 📈 Visualization
 
-The visual representation of this data, "Customer Lifetime Revenue and ARPC by Cohort," is provided in the image: ![graphed](../2_cohort_analysis_total_rev.png)
-*(Note: Ensure the image path is correct relative to your README file's location when you use this.)*
+The visual representation of this data, "Customer Lifetime Revenue and ARPC by Cohort," is provided in the image: ![graphed](2_cohort_analysis_total_rev.png)
+
 
 ## 📊 Cohort Lifetime Performance Data
 
@@ -162,11 +162,11 @@ The visual representation of this data, "Customer Lifetime Revenue and ARPC by C
 ---
 
 # 3. Customer Retention Analysis
-🖥️ **Query:** [3_retention_analysis.sql](link_to_3_retention_analysis.sql_on_github) - This query identifies active vs. churned customers based on a 6-month inactivity window. It only considers customers whose first purchase was at least 6 months prior to the latest transaction date in the dataset, providing a fair assessment of churn.
+🖥️ **Query:** [3_retention_analysis.sql](Scripts/3_retention_analysis.sql) - This query identifies active vs. churned customers based on a 6-month inactivity window. It only considers customers whose first purchase was at least 6 months prior to the latest transaction date in the dataset, providing a fair assessment of churn.
 
 ## 📈 Visualization
-The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: ![graphed](../3_retention_analysis.png)
-![graphed](../3_retention_analysis_xtra.png)
+The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: ![graphed](3_retention_analysis.png)
+![graphed](3_retention_analysis_xtra.png)
 --
 # 💡 Key Retention Insights (Based on 6-Month Inactivity Churn Definition)
 
