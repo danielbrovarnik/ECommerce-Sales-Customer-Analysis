@@ -225,7 +225,7 @@ The visual representation of this data, Total Customer Retention (Status) and Ch
 
 # BONUS VIZ: Global Revenue Trends & Growth (Country-Level Analysis)
 
-Query : [4_cagr_country_revenue.sql](link_to_3_retention_analysis.sql_on_github)
+Query : [4_cagr_country_revenue.sql](Scripts/4_country_rev_year.sql)
 This analysis examines revenue performance across key international markets from 2015 to 2023, highlighting growth leaders and strategic opportunities.
 
 ## 📈 Visualizations
@@ -235,9 +235,9 @@ This analysis examines revenue performance across key international markets from
 *   Stacked Bar Chart: Total Revenue by Year & Country Contribution (2015-2023)
 ![graphed](total_rev_stacked_bar_country.png)
 *   Pie Charts:
-    *   Average Annual Revenue Contribution by Country (2015-2023) -hyperlink
-    *   Revenue Contribution by Country - 2015 - hyperlink
-    *   Revenue Contribution by Country - 2023 - will hyperlink
+    *   [Average Annual Revenue Contribution by Country (2015-2023)](avg_annual_revenue_contribution_by_country.png) 
+    *   [Revenue Contribution by Country - 2015]() 
+    *   [Revenue Contribution by Country - 2023]() 
 
 
 
