@@ -165,7 +165,8 @@ The visual representation of this data, "Customer Lifetime Revenue and ARPC by C
 🖥️ **Query:** [3_retention_analysis.sql](Scripts/3_retention_analysis.sql) - This query identifies active vs. churned customers based on a 6-month inactivity window. It only considers customers whose first purchase was at least 6 months prior to the latest transaction date in the dataset, providing a fair assessment of churn.
 
 ## 📈 Visualization
-###The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: ![graphed](3_retention_analysis.png)
+
+The visual representation of this data, Total Customer Retention (Status) and Churn by Cohort Year," is provided in the image as a precentage and a count: ![graphed](3_retention_analysis.png)
 ![graphed](3_retention_analysis_xtra.png)
 --
 # 💡 Key Retention Insights (Based on 6-Month Inactivity Churn Definition)
