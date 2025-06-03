@@ -236,8 +236,8 @@ This analysis examines revenue performance across key international markets from
 ![graphed](total_rev_stacked_bar_country.png)
 *   Pie Charts:
     *   [Average Annual Revenue Contribution by Country (2015-2023)](avg_annual_revenue_contribution_by_country.png) 
-    *   [Revenue Contribution by Country - 2015]() 
-    *   [Revenue Contribution by Country - 2023]() 
+    *   [Revenue Contribution by Country - 2015](revenue_country_2015.png) 
+    *   [Revenue Contribution by Country - 2023](revenue_country_2023.png) 
 
 
 
