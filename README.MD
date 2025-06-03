@@ -222,7 +222,7 @@ The visual representation of this data, Total Customer Retention (Status) and Ch
 - **Analysis Tools:** PostgreSQL, DBeaver  
 - **Visualization:** ChatGPT
 
-
+---
 # BONUS VIZ: Global Revenue Trends & Growth (Country-Level Analysis)
 
 Query : [4_cagr_country_revenue.sql](Scripts/4_country_rev_year.sql)
