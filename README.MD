@@ -35,8 +35,7 @@ The data produced by the `1_customer_segmentation.sql` query (which includes cus
     -   Average LTV per Customer in the Segment
 -   **Output & Access:** The visualization is a standalone HTML file, making it easily shareable.
     [View Interactive LTV Segmentation Chart](interactive_ltv_pie_chart.html)
-    *(Ensure `interactive_ltv_pie_chart.html` is accessible, e.g., in the same GitHub repository folder or hosted elsewhere).*
-
+    
 📊 **Key Findings:**
 
 -   High-value segment (25% of customers) drives 66% of revenue ($135.4M).
@@ -50,7 +49,7 @@ The data produced by the `1_customer_segmentation.sql` query (which includes cus
 -   **Low-Value (2% revenue):** Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency.
 
 ### 2. Customer Revenue by Cohort
-🖥️ **Query:** [2_cohort_analysis.sql](link_to_2_cohort_analysis.sql_on_github) The following SQL query analyzes revenue from customers based on their cohort year (the year of their first purchase). It specifically looks at the revenue generated from transactions that occurred on the customer's `first_purchase_date`. This helps understand the initial spending behavior of different cohorts.
+🖥️ **Query:** [2_cohort_analysis.sql](2_cohort_analysis.png) The following SQL query analyzes revenue from customers based on their cohort year (the year of their first purchase). It specifically looks at the revenue generated from transactions that occurred on the customer's `first_purchase_date`. This helps understand the initial spending behavior of different cohorts.
 
 ```sql
 -- File: 2_cohort_analysis.sql
