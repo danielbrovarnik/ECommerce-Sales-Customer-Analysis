@@ -21,6 +21,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 -   Calculated key metrics like total revenue and average LTV per segment.
 
 📈 **Visualization:**
+
 <img src="1_customer_segmentation.png" alt="Customer Segmentation LTV Chart" width="800"/>
 
 The data produced by the `1_customer_segmentation.sql` query (which includes customer count, total LTV, and average LTV for each segment) is used as input for a Python script. This script utilizes the Plotly library to generate an interactive pie chart.
