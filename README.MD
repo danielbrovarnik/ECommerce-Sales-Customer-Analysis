@@ -33,8 +33,7 @@ The data produced by the `1_customer_segmentation.sql` query (which includes cus
     -   Total LTV for the Segment
     -   Customer Count in the Segment
     -   Average LTV per Customer in the Segment
--   **Output & Access:** The visualization is a standalone HTML file, making it easily shareable.
-    [View Interactive LTV Segmentation Chart](interactive_ltv_pie_chart.html)
+
     
 📊 **Key Findings:**
 
